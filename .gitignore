@@ -1,0 +1,44 @@
+# Ignore ambiente virtual
+venv/
+.env/
+.env.bak/
+.envrc
+
+# Ignore arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos temporários de IDEs/editors
+*.swp
+*~
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore arquivos de testes e cobertura
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+pytest_cache/
+junit-*.xml
+
+# Ignore arquivos do Airflow (se aplicável)
+airflow.db
+logs/
+*.pid
+
+# Ignore notebooks temporários e checkpoints
+.ipynb_checkpoints/
+
+# Ignore pacotes e arquivos de distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
