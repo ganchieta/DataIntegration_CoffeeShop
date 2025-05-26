@@ -29,8 +29,6 @@ Este projeto tem como objetivo criar uma estrutura de Data Warehouse (DW) para u
 ## ❄️ Acesso ao Snowflake
 
 - Link: [https://app.snowflake.com/cymotiy/od77772/#/homepage](https://app.snowflake.com/cymotiy/od77772/#/homepage)
-- Usuário: `ANDRERICARDO`
-- Senha: `AndreProfessor123@`
 
 ---
 
